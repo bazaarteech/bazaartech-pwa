@@ -1,0 +1,20 @@
+{
+  "name": "Bazaar",
+  "short_name": "Bazaar",
+  "start_url": "https://bazaarteech.blogspot.com/p/exclusive-discounts.html?m=1",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPQgW83g3242YW9QmwwJL2UuSUUW6avMMUM1CGEjcrvnhjnYaQ5wViRpsVJkYz3bPYP0k5sQPE9kNE6VMI7DHea6yTrXwgVjyHE1Lbsrcab4vl9doEKCAaID_poNJIFkjjQEQ9STzOIbrtbqPlYD6R1EeQOPnQ1JD_i5nq8CJI2cEO-J96VBLfsvpUs0o/s192/logo192%C3%97192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIVVKfl-8AogBuiGpPSDEZBgWOtxAqbmB2yzbQvw1V_xmClBCinm9w4xEShrFAWpqfBlgaekWsIEA0dZWxeKgUq_ErTW4p8Xrv_ebkRj4bMNDqB-RZ6fVghlUklbq1igZNdu53iAFfZ-IPx7fiws2g_8ryDzRd6bBieD35ijcEbVXYAPNFJTv3BKySvdM/s512/logo512%C3%97512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
