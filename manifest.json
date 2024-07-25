@@ -1,18 +1,18 @@
 {
   "name": "Bazaar",
   "short_name": "Bazaar",
-  "start_url": "https://bazaarteech.blogspot.com/p/exclusive-discounts.html?m=1",
+  "start_url": "https://bazaarteech.blogspot.com/p/home.html?m=1",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
   "icons": [
     {
-      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPQgW83g3242YW9QmwwJL2UuSUUW6avMMUM1CGEjcrvnhjnYaQ5wViRpsVJkYz3bPYP0k5sQPE9kNE6VMI7DHea6yTrXwgVjyHE1Lbsrcab4vl9doEKCAaID_poNJIFkjjQEQ9STzOIbrtbqPlYD6R1EeQOPnQ1JD_i5nq8CJI2cEO-J96VBLfsvpUs0o/s192/logo192%C3%97192.png",
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7Qj3HZpuKfVUjVNtBw5W1uChiaWw_GOR3b6hgfjte3XWxpzMT9tNgFugSjOsNIwGttyQ30B1rYB0flUEoSUj6QyonHc0GnLw-lit_EDGfuK6vbscStqjrMFqB0UVpy-G-hsdVyso3Jpy_pcGM18yU749OXsJuoSpl9G1zES1LSeyXyIrHV6zntTOYTeo/s192/bazaartechlogo192x192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIVVKfl-8AogBuiGpPSDEZBgWOtxAqbmB2yzbQvw1V_xmClBCinm9w4xEShrFAWpqfBlgaekWsIEA0dZWxeKgUq_ErTW4p8Xrv_ebkRj4bMNDqB-RZ6fVghlUklbq1igZNdu53iAFfZ-IPx7fiws2g_8ryDzRd6bBieD35ijcEbVXYAPNFJTv3BKySvdM/s512/logo512%C3%97512.png",
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgx9AsPqGW9MOfLzsVSq5G15B_MLOiekMAAyRNDP8nCGAw4nyeH3pw6auQxTbU5nX5jfAvRCyHCdQpoDbrZWDt7daBaf-vVoPB5bcM6Uwd9ylZyYz_cdqJKbtJ9TrlyLCgr9YXj70qv27pGsQa9BUl-5x6urVo9mJkXLGaZF91O9nujRN0n-tM_VFBqhw/s512/bazaartechlogo512x512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
